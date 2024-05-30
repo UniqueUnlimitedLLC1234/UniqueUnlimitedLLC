@@ -2,8 +2,8 @@ Privacy Policy
 ----------------
 
 ### Introduction  
-Our privacy policy will help you understand what information we collect at Timetable Notificare, how Timetable Notificare uses it, and what choices you have.
-Timetable Notificare built the Timetable Notificare app as a free app. This SERVICE is provided by Timetable Notificare at no cost and is intended for use as is.
+Our privacy policy will help you understand what information we collect at Unique Unlimited LLC, how Unique Unlimited LLC uses it, and what choices you have.
+Unique Unlimited LLC built the Unique Unlimited LLC app as a free app. This SERVICE is provided by Unique Unlimited LLC at no cost and is intended for use as is.
 If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
@@ -12,7 +12,7 @@ For a better experience while using our Service, we may require you to provide u
 The app does use third party services that may collect information used to identify you. 
 
 ### Permissions Required
-Permissions required for this app include read and write access for storage, foreground services, vibration and full screen intent to display notifications.
+Permissions required for this app include read and write access for storage, foreground services, vibration and location access for google maps and displaying live location of the rides.
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
@@ -46,4 +46,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
-Email: k181091@nu.edu.pk  
+Email: thebrandprofessionals@gmail.com  
